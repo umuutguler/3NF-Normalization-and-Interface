@@ -5,7 +5,7 @@ In this project, Python programming language is used to process game data and pe
 
 3NF (Third Normal Form) is a level of normalization in database design. This normalization level is used to organize the database data effectively and accurately represent the relationships between data. 3NF normalization reduces unnecessary data repetition in tables and enhances data consistency.
 
-This project demonstrates a robust and well-organized database design. The combination of Python and MySQL provides a powerful solution for efficiently managing game data.
+This project demonstrates a robust and well organized database design. The combination of Python and MySQL provides a powerful solution for efficiently managing game data.
 
 ## 1NF Normalization
 ![1NF](https://github.com/umuutguler/3NF-Normalization-and-Interface/assets/74297248/65c38d57-d159-4f55-a698-92da304838a0)
