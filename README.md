@@ -1,4 +1,4 @@
-# 3NF-Normalization-and-Interface
+# 3NF Normalization and Interface
  This project has been developed using Python and MySQL. It is a database design for a game. To establish entity relationships in the database, 3NF normalization has been applied.
 
 In this project, Python programming language is used to process game data and perform database operations through various functions and classes. Tables are created using MySQL database to represent different components and relationships of the game.
