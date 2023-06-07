@@ -18,3 +18,7 @@ This project demonstrates a robust and well-organized database design. The combi
 
 
 ## Interface
+
+![image](https://github.com/umuutguler/3NF-Normalization-and-Interface/assets/74297248/27c4f05c-d315-47c8-aa8a-be4c95fc1b72)
+
+![image](https://github.com/umuutguler/3NF-Normalization-and-Interface/assets/74297248/dfe31ca9-5e91-493e-9b31-215e82bc3813)
